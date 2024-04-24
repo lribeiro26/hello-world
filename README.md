@@ -1,2 +1,2 @@
-# hello-world-
+# hello-world
 Repositório criado para o treinamento sobre github 
